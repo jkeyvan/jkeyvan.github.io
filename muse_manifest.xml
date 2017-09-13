@@ -1,35 +1,35 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkeyvan.github.io" resolutions="1x" timestamp="1505296316151">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkeyvan.github.io" resolutions="1x" timestamp="1505306171422">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="289828819" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="3915212111" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="121973379" seo="true" mt="1505296109639" redirect="true"/>
+    <file name="index.html" crc="3783789624" seo="true" mt="1505296890543" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="196652390" ref="index"/>
-    <file name="nomq_index.css" crc="54408178" ref="index"/>
+    <file name="index.css" crc="3992081703" ref="index"/>
+    <file name="master_a-master.css" crc="50986206" ref="about:index"/>
+    <file name="about.css" crc="3920825472" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
-    <file name="museutils.js" crc="17924269" ref="index:phone>index"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
-    <file name="museconfig.js" crc="144853533" ref="index:phone>index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index"/>
-    <file name="require.js" crc="3861931657" ref="index:phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:phone>index"/>
-    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:about"/>
+    <file name="museutils.js" crc="17924269" ref="index:phone>index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:about"/>
+    <file name="museconfig.js" crc="144853533" ref="index:phone>index:about"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index:about"/>
+    <file name="require.js" crc="3861931657" ref="index:phone>index:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:phone>index:about"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about"/>
   </folder>
   <folder name="images">
-    <file name="15.jpg" crc="466580777" ref="index:phone>index">
+    <file name="15.jpg" crc="466580777" ref="index:phone>index:about">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="درباره-ما" alt=""/>
       <caption webpage="گالری" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="درباره-ما" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="ghofl3-layer 0 (merged).png" crc="4170208160" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -56,13 +56,28 @@
     <file name="topi1-u344-fr.png" crc="4119407395" ref="phone>index"/>
     <file name="topi1-u344-r-fr.png" crc="515053294" ref="phone>index"/>
     <file name="u161-4.png" crc="3984683256" ref="index"/>
-    <file name="ghofl3-u104-fr.png" crc="3994621640" ref="index"/>
-    <file name="ghofl3-u104-r-fr.png" crc="3772855524" ref="index"/>
-    <file name="u161-42.png" crc="4222496861" ref="index"/>
-    <file name="dast2-u105-fr.png" crc="4172507364" ref="index"/>
-    <file name="dast2-u105-r-fr.png" crc="4030538063" ref="index"/>
-    <file name="topi1-u106-fr.png" crc="455833198" ref="index"/>
-    <file name="topi1-u106-r-fr.png" crc="93996749" ref="index"/>
+    <file name="lola2-layer 1.png" crc="4058875510" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lola2.png" crc="3843919668" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hayati-layer 2.png" crc="3912743083" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hayati.png" crc="225933874" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabinet-layer 3.png" crc="3942874071" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cabinet.png" crc="238278768" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="تابلو.jpg" crc="4133987953" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="259071565" seo="true" mt="1505296278259" redirect="true"/>
+  <file name="index.html" crc="4060845655" seo="true" mt="1505304859564" redirect="true"/>
+  <file name="about.html" crc="4211641393" seo="true" mt="1505306095497" redirect="true"/>
 </manifest>
