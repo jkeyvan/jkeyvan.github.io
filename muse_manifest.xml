@@ -1,0 +1,53 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jkeyvan.github.io" resolutions="1x" timestamp="1505284565214">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3773348455" ref="index"/>
+    <file name="_____.css" crc="465333631" ref="گالری"/>
+    <file name="______-__.css" crc="62635442" ref="درباره-ما"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="درباره-ما:گالری:index"/>
+    <file name="museutils.js" crc="17924269" ref="درباره-ما:گالری:index"/>
+    <file name="whatinput.js" crc="86476730" ref="درباره-ما:گالری:index"/>
+    <file name="museconfig.js" crc="144853533" ref="درباره-ما:گالری:index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="درباره-ما:گالری:index"/>
+    <file name="require.js" crc="3861931657" ref="درباره-ما:گالری:index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="15.jpg" crc="466580777" ref="درباره-ما:گالری:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="گالری" alt=""/>
+      <caption webpage="درباره-ما" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2323.png" crc="476093532" ref="index"/>
+    <file name="u2323-a.png" crc="4044367810" ref="index"/>
+    <file name="u2330-4-a.png" crc="37888609" ref="index"/>
+    <file name="u2336-4.png" crc="114883083" ref="index"/>
+    <file name="ghofl3-layer 0 (merged).png" crc="4170208160" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ghofl3.png" crc="163761937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dast2-layer 1.png" crc="407960720" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dast2.png" crc="3905416037" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="topi1-layer 3.png" crc="492750236" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="topi1.png" crc="521663408" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2389-4.png" crc="281364862" ref="index"/>
+  </folder>
+  <file name="درباره-ما.html" crc="4205004932" seo="true" mt="1505256205868" redirect="false"/>
+  <file name="گالری.html" crc="209142196" seo="true" mt="1505256205868" redirect="false"/>
+  <file name="index.html" crc="498160330" seo="true" mt="1505284564665" redirect="true"/>
+</manifest>
