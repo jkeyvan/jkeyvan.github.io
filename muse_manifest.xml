@@ -1,32 +1,35 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://jkeyvan.github.io" resolutions="1x" timestamp="1505284565214">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkeyvan.github.io" resolutions="1x" timestamp="1505296316151">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="289828819" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="121973379" seo="true" mt="1505296109639" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3773348455" ref="index"/>
-    <file name="_____.css" crc="465333631" ref="گالری"/>
-    <file name="______-__.css" crc="62635442" ref="درباره-ما"/>
+    <file name="index.css" crc="196652390" ref="index"/>
+    <file name="nomq_index.css" crc="54408178" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="درباره-ما:گالری:index"/>
-    <file name="museutils.js" crc="17924269" ref="درباره-ما:گالری:index"/>
-    <file name="whatinput.js" crc="86476730" ref="درباره-ما:گالری:index"/>
-    <file name="museconfig.js" crc="144853533" ref="درباره-ما:گالری:index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="درباره-ما:گالری:index"/>
-    <file name="require.js" crc="3861931657" ref="درباره-ما:گالری:index"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="17924269" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="144853533" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index"/>
+    <file name="require.js" crc="3861931657" ref="index:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:phone>index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="15.jpg" crc="466580777" ref="درباره-ما:گالری:index">
+    <file name="15.jpg" crc="466580777" ref="index:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="گالری" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="درباره-ما" alt=""/>
+      <caption webpage="گالری" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u2323.png" crc="476093532" ref="index"/>
-    <file name="u2323-a.png" crc="4044367810" ref="index"/>
-    <file name="u2330-4-a.png" crc="37888609" ref="index"/>
-    <file name="u2336-4.png" crc="114883083" ref="index"/>
     <file name="ghofl3-layer 0 (merged).png" crc="4170208160" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -45,9 +48,21 @@
     <file name="topi1.png" crc="521663408" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2389-4.png" crc="281364862" ref="index"/>
+    <file name="ghofl3-u342-fr.png" crc="201289301" ref="phone>index"/>
+    <file name="ghofl3-u342-r-fr.png" crc="18023293" ref="phone>index"/>
+    <file name="u345-4.png" crc="4167421952" ref="phone>index"/>
+    <file name="dast2-u343-fr.png" crc="527805416" ref="phone>index"/>
+    <file name="dast2-u343-r-fr.png" crc="3884958562" ref="phone>index"/>
+    <file name="topi1-u344-fr.png" crc="4119407395" ref="phone>index"/>
+    <file name="topi1-u344-r-fr.png" crc="515053294" ref="phone>index"/>
+    <file name="u161-4.png" crc="3984683256" ref="index"/>
+    <file name="ghofl3-u104-fr.png" crc="3994621640" ref="index"/>
+    <file name="ghofl3-u104-r-fr.png" crc="3772855524" ref="index"/>
+    <file name="u161-42.png" crc="4222496861" ref="index"/>
+    <file name="dast2-u105-fr.png" crc="4172507364" ref="index"/>
+    <file name="dast2-u105-r-fr.png" crc="4030538063" ref="index"/>
+    <file name="topi1-u106-fr.png" crc="455833198" ref="index"/>
+    <file name="topi1-u106-r-fr.png" crc="93996749" ref="index"/>
   </folder>
-  <file name="درباره-ما.html" crc="4205004932" seo="true" mt="1505256205868" redirect="false"/>
-  <file name="گالری.html" crc="209142196" seo="true" mt="1505256205868" redirect="false"/>
-  <file name="index.html" crc="498160330" seo="true" mt="1505284564665" redirect="true"/>
+  <file name="index.html" crc="259071565" seo="true" mt="1505296278259" redirect="true"/>
 </manifest>
