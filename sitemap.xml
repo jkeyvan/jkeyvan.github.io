@@ -12,5 +12,6 @@
     <lastmod>2017-09-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://jkeyvan.github.io/phone/about.html"/>
   </url>
 </urlset>

@@ -1,26 +1,29 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkeyvan.github.io" resolutions="1x" timestamp="1505306171422">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jkeyvan.github.io" resolutions="1x" timestamp="1505308282868">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3915212111" ref="phone>index"/>
+      <file name="index.css" crc="4259017501" ref="phone>index"/>
+      <file name="master_a-master.css" crc="166903342" ref="phone>index:phone>about"/>
+      <file name="about.css" crc="533723999" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="3783789624" seo="true" mt="1505296890543" redirect="true"/>
+    <file name="index.html" crc="4134934505" seo="true" mt="1505308208443" redirect="true"/>
+    <file name="about.html" crc="3760615210" seo="true" mt="1505308217833" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3992081703" ref="index"/>
     <file name="master_a-master.css" crc="50986206" ref="about:index"/>
-    <file name="about.css" crc="3920825472" ref="about"/>
+    <file name="about.css" crc="4254247086" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:about"/>
-    <file name="museutils.js" crc="17924269" ref="index:phone>index:about"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index:about"/>
-    <file name="museconfig.js" crc="144853533" ref="index:phone>index:about"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index:about"/>
-    <file name="require.js" crc="3861931657" ref="index:phone>index:about"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:phone>index:about"/>
-    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:about:phone>about"/>
+    <file name="museutils.js" crc="17924269" ref="index:phone>index:about:phone>about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:about:phone>about"/>
+    <file name="museconfig.js" crc="144853533" ref="index:phone>index:about:phone>about"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:phone>index:about:phone>about"/>
+    <file name="require.js" crc="3861931657" ref="index:phone>index:about:phone>about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:phone>index:about:phone>about"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about:phone>index:phone>about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:phone>index:phone>about"/>
   </folder>
   <folder name="images">
     <file name="15.jpg" crc="466580777" ref="index:phone>index:about">
@@ -74,10 +77,17 @@
     <file name="cabinet.png" crc="238278768" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="تابلو.jpg" crc="4133987953" ref="about">
+    <file name="تابلو.jpg" crc="4055352007" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="lola2-u1001-fr.png" crc="4271685531" ref="phone>index"/>
+    <file name="lola2-u1001-r-fr.png" crc="233319087" ref="phone>index"/>
+    <file name="hayati-u1002-fr.png" crc="10227821" ref="phone>index"/>
+    <file name="hayati-u1002-r-fr.png" crc="3894334213" ref="phone>index"/>
+    <file name="cabinet-u1003-fr.png" crc="526382893" ref="phone>index"/>
+    <file name="cabinet-u1003-r-fr.png" crc="4147061305" ref="phone>index"/>
+    <file name="تابلو-u1019-fr.jpg" crc="221121478" ref="phone>about"/>
   </folder>
-  <file name="index.html" crc="4060845655" seo="true" mt="1505304859564" redirect="true"/>
-  <file name="about.html" crc="4211641393" seo="true" mt="1505306095497" redirect="true"/>
+  <file name="index.html" crc="4157782467" seo="true" mt="1505308122210" redirect="true"/>
+  <file name="about.html" crc="4028296330" seo="true" mt="1505308217838" redirect="true"/>
 </manifest>
